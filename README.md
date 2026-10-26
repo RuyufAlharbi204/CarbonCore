@@ -14,9 +14,9 @@ CarbonCore is being developed as a prototype featuring a centralized dashboard f
 
 ## Dashboard Preview
 
-CarbonCore features a dashboard prototype designed to support carbon-aware data center optimization through predictive insights and intelligent workload scheduling.
+CarbonCore features an interactive dashboard prototype designed to support carbon-aware data center optimization through predictive insights and intelligent workload scheduling.
 
-**[View the CarbonCore Dashboard Prototype on Figma](https://www.figma.com/design/sVv1Y3iqSE0Bb74Arllkg1/Dashboard-CarbonCore?node-id=0-1&t=6ibmYw5t7xJhNqcW-1)**
+**[Explore the Interactive CarbonCore Dashboard](https://www.figma.com/proto/sVv1Y3iqSE0Bb74Arllkg1/Dashboard-CarbonCore?node-id=1-110&t=GSeIHm92EeeF49z0-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)**
 
 
 ## Abstract
