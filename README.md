@@ -16,8 +16,8 @@ CarbonCore is being developed as a prototype featuring a centralized dashboard f
 
 CarbonCore features an interactive dashboard prototype designed to support carbon-aware data center optimization through predictive insights and intelligent workload scheduling.
 
-**[Explore the Interactive CarbonCore Dashboard](https://www.figma.com/proto/sVv1Y3iqSE0Bb74Arllkg1/Dashboard-CarbonCore?node-id=1-110&t=GSeIHm92EeeF49z0-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)**
-
+- [Live Demo](https://carboncore-six.vercel.app/)
+- [Figma UI/UX Prototype](YOUR_FIGMA_LINK)
 
 ## Abstract
 
@@ -84,6 +84,14 @@ The proposed and intended technologies include:
 ## Future Work
 
 Future development will focus on real-world data integration, predictive model implementation, intelligent scheduling, simulation-based evaluation, and deployment. The system will be evaluated against relevant baselines to assess its potential impact on carbon emissions, energy costs, and workload scheduling performance.
+
+## AgentX Competition
+
+CarbonCore was selected as a finalist in **AgentX**, advancing through a competitive selection process involving 500+ teams to develop an AI-driven solution for SASREF.
+
+Although the team was unable to attend the final event due to regional security concerns and unsafe air travel conditions, the project’s selection remains an important milestone in its development.
+
+**[View the AgentX Solution Deck (Arabic)](docs/CarbonCore-AgentX-Solution-Deck-AR.pdf)**
 
 ## Project Team
 
