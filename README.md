@@ -9,7 +9,15 @@ The project aims to combine predictive machine learning models with intelligent 
 
 CarbonCore is being developed as a prototype featuring a centralized dashboard for monitoring and decision support, with real-time data integration and deployment planned for future development.
 
-**Project Status:** Prototype developed; data integration and deployment pending.
+
+**Current Status:** The dashboard prototype has been developed. Real-world data integration, AI model implementation, and full system deployment remain in progress.
+
+## Dashboard Preview
+
+CarbonCore features a dashboard prototype designed to support carbon-aware data center optimization through predictive insights and intelligent workload scheduling.
+
+**[View the CarbonCore Dashboard Prototype on Figma](https://www.figma.com/design/sVv1Y3iqSE0Bb74Arllkg1/Dashboard-CarbonCore?node-id=0-1&t=6ibmYw5t7xJhNqcW-1)**
+
 
 ## Abstract
 
